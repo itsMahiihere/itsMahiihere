@@ -1,65 +1,65 @@
-## 👋 Hello, I'm Mahesh Rathod
+<h1 align="center">Hi 👋, I'm Mahesh Rathod</h1>
 
-### 🚀 Full Stack Java Developer | Spring Boot | SQL | Frontend Basics
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 B.E. in Computer Science and Engineering (72.30%)
-- 💼 Former Python Intern @ Aqmenz Automation Pvt. Ltd.
-- 🔧 Skilled in backend development using **Java & Spring Boot**
-- 🌐 Basic frontend skills in **HTML, CSS, JavaScript**
-- 🛢️ Database experience with **MySQL** and **MongoDB**
-- 🌱 Currently learning Core Java deeply and practicing full stack projects
-- 📍 Based in Nanded, Maharashtra
+<p align="center">
+  🚀 Passionate Full Stack Java Developer | Backend Focused | Quick Learner |
+  Team Player
+</p>
 
 ---
 
-### 💻 Tech Stack
+### 🧑‍💻 About Me
 
-**Backend**
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+- 🎓 **Currently Exploring Skill at Cdac,Mumbai
+- 🧠 Exploring Core Java, Spring Ecosystem & REST APIs
+- 🛠️ Building scalable Java applications with clean code practices
+- 🌐 Love creating backend systems that are reliable and secure
+---
+### 🚀 Tech Stack
 
-**Frontend**
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+#### 🧱 Backend  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23675C5C.svg?style=flat&logo=hibernate&logoColor=white)
 
-**Databases**
-- ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+#### 🎨 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
-**Tools**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+#### 🗄️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+
+#### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📌 Featured Projects
+### 📊 GitHub Stats
 
-- **🧠 Rainfall Prediction using ML** – Flask + Machine Learning
-- **🔍 Web Scraping Automation Tool** – Python based, data extraction
-- **📦 Inventory Management System** – Java + MySQL + JSP
-
----
-
-### 📈 GitHub Stats
-
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsMahiihere&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=itsMahiihere&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsMahiihere&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=itsMahiihere&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-rathod-1234)
-📧 Email: mahesh@example.com
+<p align="left">
+  <a href="https://linkedin.com/in/mahesh-rathod-1234" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mahesh@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+<p align="center">
+  <em>“Build something you’d be proud to show your future self.”</em> 💡
+</p>
